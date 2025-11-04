@@ -1,0 +1,6 @@
+Nov  3 10:12:42 server sshd[1023]: Failed password for invalid user admin from 192.168.1.50 port 58422 ssh2
+Nov  3 10:12:44 server sshd[1025]: Failed password for invalid user root from 192.168.1.50 port 58423 ssh2
+Nov  3 10:12:46 server sshd[1027]: Failed password for invalid user test from 192.168.1.50 port 58424 ssh2
+Nov  3 10:13:01 server sshd[1030]: Accepted password for nick from 192.168.1.100 port 58500 ssh2
+Nov  3 10:15:22 server sshd[1044]: Failed password for invalid user guest from 192.168.1.50 port 58428 ssh2
+Nov  3 10:16:10 server sshd[1055]: Accepted password for admin from 192.168.1.20 port 59000 ssh2
