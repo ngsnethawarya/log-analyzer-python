@@ -1,2 +1,7 @@
 # log-analyzer-python
-Parse Linux auth logs to detect brute-force login attempts and suspicious usernames
+
+A simple Python script to parse Linux `auth.log` files and detect brute-force login attempts.
+
+## Quickstart
+```bash
+python3 analyze_auth_log.py --file sample_auth.log
